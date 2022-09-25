@@ -1,0 +1,17 @@
+Variables: una variable es como una cajita donde almacenas informacion que luego puede ser 
+usada a lo largo de tu codigo.
+
+String: es un tipo de dato que representa los textos, tambien estan los Num que representa a 
+los numeros.
+
+Funciones: es una porcion de codigo que sirve para ejecutar una tarea y que puede ser 
+reutilizado, esta recibe unos argumentos que son los valores que esta recibe para ser llamada,
+ por ultimo se usa el "return" para terminar la ejecucion de la funcion
+
+Declaracion if: declaramos if cuando una condicion tiene especifica ya sea verdadero o falso,
+dependiendo de la condicion te devolvera una respuesa u otra.
+
+Valores boleanos "true - false": es una representacion de la verdad, osea verdadero o falso. 
+ejemplo:
+1 + 1 = 2 - la respuesta es verdadero osea "true"
+1 + 1 = 1 - la respuesta es falso osea "false".

@@ -1,0 +1,6 @@
+for: es un bucle que se repite una y otra vez hasta que obtenemos un resultado deseado, nosotros podemos configurar en donde inicia, cuantas veces queremos que se repita y cuando termina.
+
+&& || !: son operadores logicos, cada uno tiene una funcion especifica. 
+    && = o "and" sirve para ejecutar varias comprobaciones a la vez si son ciertas.
+    || = o "or" sirve para ejecutar entre varias comprobaciones devolviendo verdadero si una de las comprobaciones lo es.
+    !  = o "NOT" sirve para devolver el contrario al valor puesto.

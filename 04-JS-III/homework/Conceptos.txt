@@ -1,0 +1,1 @@
+Array: son como una cajas que guarda varias informaciones para se accedidas a ellas de una manera mas facil y efectiva.

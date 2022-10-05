@@ -1,0 +1,21 @@
+body {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.header {
+    padding: 15px;
+    display: flex;
+    width: 300px;
+    border-style: solid;
+    justify-content: center;
+}
+.img-perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.personal-profile {
+    width: 600px;
+}

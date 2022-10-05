@@ -1,5 +1,8 @@
 body {
     text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
 h1 {
     color: dodgerblue;
@@ -7,6 +10,7 @@ h1 {
 img {
     width: 300px;
     height: 290px;
+    margin: 10px;
 }
 #thirdDiv {
     width: 500px;
@@ -15,6 +19,8 @@ img {
     padding: 50px;
     border-radius: 5%;
     border-color: black;
+    border-style: solid;
+    border-color: steelblue;
 }
 #spanId {
     font-size: 18px;

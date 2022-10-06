@@ -1,14 +1,28 @@
 body {
-    align-items: center;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #727272;
 }
 .header {
     padding: 15px;
     display: flex;
     width: 300px;
-    border-style: solid;
-    justify-content: center;
+    /* border-style: solid; */
+    flex-direction: column;
+    align-items: center;
+    background-color: #3D61DA;
+    box-shadow: 0px 0px 10px 5px black;
+    color: rgb(226, 226, 226);
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #3D61DA;
+}
+h2 {
+    text-align: center;
+    color: #6e8be7;
 }
 .img-perfil {
     width: 200px;
@@ -18,4 +32,13 @@ body {
 
 .personal-profile {
     width: 600px;
+    background-color: rgb(247, 242, 242);
+    padding: 0px 25px 0px;
+    box-shadow: 0px 0px 10px 5px black;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
 }
